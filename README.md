@@ -11,4 +11,8 @@ This is where I documented my Portfolio while on a Data Analytics Journey with t
 - Ms Excel for Daat Cleaning (Download here)
   - for data collection
   - for data cleaning
+    1. Data Manipulation
+    2. Data Munching
 - SQL Server (for query)
+- Power Bi (for creating report)
+- Ms power point (for presentation
