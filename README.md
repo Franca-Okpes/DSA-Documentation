@@ -16,3 +16,20 @@ This is where I documented my Portfolio while on a Data Analytics Journey with t
 - SQL Server (for query)
 - Power Bi (for creating report)
 - Ms power point (for presentation
+
+
+### Data Cleaning and Preparation: Involved
+- Data loading and inspection
+- Handling missing variables
+- Data Cleaning and formatting
+
+  ### Exploratory Data Analysis
+  - what is the overall sales trend
+  - best selling product
+ 
+    ### Data Analysis: This is where I imcluded some basic lines of codes or query or DAX to explore the data to answer some questions
+
+~~~ SQL
+    select*from employee
+where 'staff_id=ab123
+~~~
