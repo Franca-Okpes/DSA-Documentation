@@ -31,5 +31,5 @@ This is where I documented my Portfolio while on a Data Analytics Journey with t
 
 ~~~ SQL
     select*from employee
-where 'staff_id=ab123
+    where 'staff_id=ab123
 ~~~
