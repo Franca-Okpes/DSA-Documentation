@@ -9,4 +9,6 @@ This is where I documented my Portfolio while on a Data Analytics Journey with t
 
 ###Tools Used
 - Ms Excel for Daat Cleaning (Download here)
+  - for data collection
+  - for data cleaning
 - SQL Server (for query)
